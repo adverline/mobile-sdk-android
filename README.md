@@ -1,1 +1,4 @@
-# mobile-sdk-android
+Adverline Android SDK
+==================
+
+Documentation in progress.
